@@ -201,7 +201,6 @@ footer {
 .nav-area {
   display: flex;
   align-items: center;
-  max-width: 1200px;
   margin: 0 auto;
   padding: 0px 20px;
 }
@@ -210,7 +209,6 @@ footer {
   display: flex;
   align-items: center;
   max-width: 1200px;
-  margin-left: 900px;
   padding: 10px 20px;
   font-size: 10px;
 }
@@ -224,7 +222,7 @@ footer {
   text-decoration: none;
   font-size: 25px;
   color: inherit;
-  margin-right: 100px;
+  margin-right: 0px;
   font-weight: bold;
 }
 
@@ -233,7 +231,6 @@ footer {
   align-items: center;
   flex-wrap: wrap;
   list-style: none;
-  padding-left: 555px;
 }
 
 .menu-items {
