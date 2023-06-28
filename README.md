@@ -1,5 +1,5 @@
-# Front-End Prototype for Suitmedia Internship
+# Front-End Prototype for Suitmedia Internship Test
 
-Created using React JS.
+Created using React JS and deployed using Firebase
 
-Website deploy:
+Website deploy: https://commanding-pipe-367307.web.app/
